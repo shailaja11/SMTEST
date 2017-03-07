@@ -1,0 +1,2 @@
+# SMTEST
+testfiles
